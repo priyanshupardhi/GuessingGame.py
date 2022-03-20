@@ -1,4 +1,4 @@
 # GuessingGame.py
 
-###IDE:
-####Spyder
+### IDE:
+#### Spyder
